@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-10-24 11:43:41",
+    "role": "user",
+    "content": "Chào bạn tôi là Nguyên"
+  },
+  {
+    "timestamp": "2025-10-24 11:43:41",
+    "role": "assistant",
+    "content": "Chào Nguyên, rất vui được làm quen với bạn!\n\nTôi là một trợ lý AI. Tôi có thể giúp gì cho bạn hôm nay?"
+  }
+]
